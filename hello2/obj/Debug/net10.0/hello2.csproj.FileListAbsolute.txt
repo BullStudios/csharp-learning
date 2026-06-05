@@ -1,0 +1,15 @@
+/workspaces/csharp-learning/hello2/bin/Debug/net10.0/hello2
+/workspaces/csharp-learning/hello2/bin/Debug/net10.0/hello2.deps.json
+/workspaces/csharp-learning/hello2/bin/Debug/net10.0/hello2.runtimeconfig.json
+/workspaces/csharp-learning/hello2/bin/Debug/net10.0/hello2.dll
+/workspaces/csharp-learning/hello2/bin/Debug/net10.0/hello2.pdb
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.AssemblyInfoInputs.cache
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.AssemblyInfo.cs
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.csproj.CoreCompileInputs.cache
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.sourcelink.json
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.dll
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/refint/hello2.dll
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.pdb
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/hello2.genruntimeconfig.cache
+/workspaces/csharp-learning/hello2/obj/Debug/net10.0/ref/hello2.dll
